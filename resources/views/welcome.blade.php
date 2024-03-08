@@ -72,7 +72,7 @@
             <div class="container position-relative full-screen">
                 <div class="row h-100 align-items-center">
                     <div class="col-xl-7 col-md-10 mx-auto text-center">
-                        <span class="after-before-separator text-extra-small alt-font text-white-2 letter-spacing-3 sm-letter-spacing-0 text-uppercase margin-20px-bottom sm-margin-5px-bottom d-inline-block">we work hard, we play hard</span>
+                        <span class="after-before-separator text-extra-small alt-font text-white-2 letter-spacing-3 sm-letter-spacing-0 text-uppercase margin-20px-bottom sm-margin-5px-bottom d-inline-block">Your Dose of Creativity</span>
                         <h2 class="font-weight-600 text-white-2 alt-font margin-40px-bottom sm-margin-25px-bottom">Nous apportons de la créativité à votre communication</h2>
                         <a href="portfolio-full-width-grid-transform.html" class="btn btn-transparent-white btn-rounded btn-medium text-link-white-2">Nos Réalisations</a>
                     </div>
